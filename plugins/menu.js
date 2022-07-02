@@ -45,13 +45,13 @@ Hai, %ucapan %name! 👋
 *Tanggal:* %date
 *Uptime:* %uptime (%muptime)
 
-➪𝐌𝐚𝐦𝐩𝐢𝐫 𝐤𝐞 𝐲𝐨𝐮𝐭𝐮𝐛𝐞 𝐉𝐚𝐫𝐨𝐭
+➪𝐌𝐚𝐦𝐩𝐢𝐫 𝐤𝐞 𝑰𝒈
+  follow ig owner : @Cyboard
 
-https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ
 
 ➪𝐆𝐫𝐨𝐮𝐩 𝐛𝐨𝐭 𝐨𝐟𝐟𝐜𝐢𝐚𝐥
-
-https://chat.whatsapp.com/L0f0zjXFcBLINqJkuqOZDJ
+https://chat.whatsapp.com/JqzZbqyCvBa6tXzLH1P3hZ (1)
+https://chat.whatsapp.com/L0f0zjXFcBLINqJkuqOZDJ (2)
 *Limit:* %limit
 *Level:* %level
 *XP:* %exp
@@ -59,8 +59,8 @@ https://chat.whatsapp.com/L0f0zjXFcBLINqJkuqOZDJ
   header: ' *%category*',
   body: ' • %cmd %islimit %isPremium',
   footer: '\n',
-  after: `*Made by 𝐑𝐢𝐞𝐥𝐨𝐟𝐜*
-*%𝗝𝗮𝗿𝗼𝘁 𝗼𝗳𝗳𝗰* | %version
+  after: `*Made by 𝑳𝒆𝒎𝒐𝒏*
+*𝑳𝒆𝒎𝒐𝒏 𝗼𝗳𝗳𝗰* | %version
 ${'```%npmdesc```'}
 `,
 }
